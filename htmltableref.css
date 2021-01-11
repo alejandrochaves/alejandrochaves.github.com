@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: Anton, monospace, serif;
+}
+
+table {
+  padding: 0px;
+  border-spacing: 0px;
+  font-family: raleway, monospace, serif;
+}
+
+.cell {
+  border: 1px solid;
+}
+
+.table-titles {
+  background-color: cyan;
+  font-weight: 700;
+}
+
+.table-body {
+  background-color: deeppink;
+  color: lavender;
+}
